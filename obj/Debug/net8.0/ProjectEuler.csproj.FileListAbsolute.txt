@@ -1,0 +1,14 @@
+/home/danielhn/dev/csharp/CsharpProjects/ProjectEuler/bin/Debug/net8.0/ProjectEuler
+/home/danielhn/dev/csharp/CsharpProjects/ProjectEuler/bin/Debug/net8.0/ProjectEuler.deps.json
+/home/danielhn/dev/csharp/CsharpProjects/ProjectEuler/bin/Debug/net8.0/ProjectEuler.runtimeconfig.json
+/home/danielhn/dev/csharp/CsharpProjects/ProjectEuler/bin/Debug/net8.0/ProjectEuler.dll
+/home/danielhn/dev/csharp/CsharpProjects/ProjectEuler/bin/Debug/net8.0/ProjectEuler.pdb
+/home/danielhn/dev/csharp/CsharpProjects/ProjectEuler/obj/Debug/net8.0/ProjectEuler.GeneratedMSBuildEditorConfig.editorconfig
+/home/danielhn/dev/csharp/CsharpProjects/ProjectEuler/obj/Debug/net8.0/ProjectEuler.AssemblyInfoInputs.cache
+/home/danielhn/dev/csharp/CsharpProjects/ProjectEuler/obj/Debug/net8.0/ProjectEuler.AssemblyInfo.cs
+/home/danielhn/dev/csharp/CsharpProjects/ProjectEuler/obj/Debug/net8.0/ProjectEuler.csproj.CoreCompileInputs.cache
+/home/danielhn/dev/csharp/CsharpProjects/ProjectEuler/obj/Debug/net8.0/ProjectEuler.dll
+/home/danielhn/dev/csharp/CsharpProjects/ProjectEuler/obj/Debug/net8.0/refint/ProjectEuler.dll
+/home/danielhn/dev/csharp/CsharpProjects/ProjectEuler/obj/Debug/net8.0/ProjectEuler.pdb
+/home/danielhn/dev/csharp/CsharpProjects/ProjectEuler/obj/Debug/net8.0/ProjectEuler.genruntimeconfig.cache
+/home/danielhn/dev/csharp/CsharpProjects/ProjectEuler/obj/Debug/net8.0/ref/ProjectEuler.dll
